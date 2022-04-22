@@ -2,5 +2,4 @@
 - 👀 I’m interested in amogus
 - 🌱 I’m currently learning lua and c++ (mainly lua)
 - 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me Kris's#1851
 - don't ask me help at coding since I only know one line, print ("hello word")
